@@ -1,0 +1,15 @@
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\bin\Debug\net6.0\methodoverloading.exe
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\bin\Debug\net6.0\methodoverloading.deps.json
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\bin\Debug\net6.0\methodoverloading.runtimeconfig.json
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\bin\Debug\net6.0\methodoverloading.dll
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\bin\Debug\net6.0\methodoverloading.pdb
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.csproj.AssemblyReference.cache
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.AssemblyInfoInputs.cache
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.AssemblyInfo.cs
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.dll
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\refint\methodoverloading.dll
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.pdb
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\methodoverloading.genruntimeconfig.cache
+C:\Users\Manu\Documents\C#101Patika\methodoverloading\obj\Debug\net6.0\ref\methodoverloading.dll
